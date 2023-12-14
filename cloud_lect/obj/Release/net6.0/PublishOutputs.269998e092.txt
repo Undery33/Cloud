@@ -1,0 +1,7 @@
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\bin\Release\net6.0\publish\Test Code.exe
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\bin\Release\net6.0\publish\appsettings.json
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\bin\Release\net6.0\publish\Test Code.dll
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\bin\Release\net6.0\publish\Test Code.deps.json
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\bin\Release\net6.0\publish\Test Code.runtimeconfig.json
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\bin\Release\net6.0\publish\Test Code.pdb

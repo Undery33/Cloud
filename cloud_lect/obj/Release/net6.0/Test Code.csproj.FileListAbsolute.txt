@@ -1,0 +1,26 @@
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\bin\Release\net6.0\appsettings.Development.json
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\bin\Release\net6.0\appsettings.json
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\bin\Release\net6.0\Test Code.staticwebassets.runtime.json
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\bin\Release\net6.0\Test Code.exe
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\bin\Release\net6.0\Test Code.deps.json
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\bin\Release\net6.0\Test Code.runtimeconfig.json
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\bin\Release\net6.0\Test Code.dll
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\bin\Release\net6.0\Test Code.pdb
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\obj\Release\net6.0\Test Code.csproj.AssemblyReference.cache
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\obj\Release\net6.0\Test Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\obj\Release\net6.0\Test Code.AssemblyInfoInputs.cache
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\obj\Release\net6.0\Test Code.AssemblyInfo.cs
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\obj\Release\net6.0\Test Code.csproj.CoreCompileInputs.cache
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\obj\Release\net6.0\Test Code.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\obj\Release\net6.0\Test Code.RazorAssemblyInfo.cache
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\obj\Release\net6.0\Test Code.RazorAssemblyInfo.cs
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\obj\Release\net6.0\scopedcss\bundle\Test Code.styles.css
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\obj\Release\net6.0\scopedcss\projectbundle\Test Code.bundle.scp.css
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\obj\Release\net6.0\Test Code.dll
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\obj\Release\net6.0\refint\Test Code.dll
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\obj\Release\net6.0\Test Code.pdb
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\obj\Release\net6.0\Test Code.genruntimeconfig.cache
+C:\Users\htu12\OneDrive\바탕 화면\Test Code\obj\Release\net6.0\ref\Test Code.dll
